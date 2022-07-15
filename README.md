@@ -22,13 +22,5 @@
 
 <h2>💻 IMG DE GAME-ANSWER-CHOICES 💻</h2>
 
-<img align='right' src="https://github.com/JDQN/PortafolioWeb/blob/main/img1.png" width="500" />
+<img src="https://github.com/JDQN/GAME-ANSWER-CHOICES/blob/main/img1.jpeg?raw=true" />
 
----
-<img src="https://github.com/JDQN/PortafolioWeb/blob/main/img2.png" width="500" />
-
-
-<img align='right' src="https://github.com/JDQN/PortafolioWeb/blob/main/img3.png" width="500" />
-
----
-<img src="https://github.com/JDQN/PortafolioWeb/blob/main/img4.png" width="500" />
