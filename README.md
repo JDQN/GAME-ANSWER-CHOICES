@@ -8,6 +8,11 @@
 <p><em> Link de la app web -> <a href="https://game-answer-choices.vercel.app/"> GAME-ANSWER-CHOICES</a> 💻 </br>
 </em></p>
 
+<h2> 👨🏻•💻  PRESENTADO A 👨🏻•💻 </h2>
+- 👨‍💻 &nbsp; Julian Lasso Coach 
+
+- 👨‍💻 &nbsp; Sofka University 
+
 <h2> 👨🏻•💻  TEAM 👨🏻•💻 </h2>
 - 🎓 &nbsp; Juan David Quimbayo Nuñez.
 
