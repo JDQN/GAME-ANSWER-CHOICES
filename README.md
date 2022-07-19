@@ -1,9 +1,5 @@
  ### GAME-ANSWER-CHOICES 👋 💻 🤓 🖥
 
-<p>
- 
-</p>
-
 
 <p><em> Link de la app web -> <a href="https://game-answer-choices.vercel.app/"> GAME-ANSWER-CHOICES</a> 💻 </br>
 </em></p>
